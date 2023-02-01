@@ -1,6 +1,6 @@
 # AI PAL: ChatGPT project
 
-AN awesome responsive online chatbot using the OpenAI Api ChatGPT model to chat in a conversational way.
+An awesome responsive online chatbot using the OpenAI Api ChatGPT model to chat in a conversational way.
 
 ## Examples
 
