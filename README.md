@@ -6,7 +6,7 @@ AN awesome responsive online chatbot using the OpenAI Api ChatGPT model to chat 
 
 Try out the demo here: https://ai-pal-client.vercel.app/
 
-![AI_PAL_results_image](./images/ai_pal_screenshot.png)
+![AI_PAL_results_image](./public/images/ai_pal_screenshot.png)
 
 ## Tech Stack
 
